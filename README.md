@@ -127,8 +127,8 @@ Se requiere diseñar un sistema para gestionar una biblioteca con los siguientes
 #### Diagrama Relacional
 
   
-  ![[Call Center SAC Ecosystem-2026-01-29-232514.png]]
   
+  ![alt text](<Call Center SAC Ecosystem-2026-01-29-232514.png>)
 
 ### 1.3 Implementación en PostgreSQL
 
@@ -679,7 +679,7 @@ La aplicación muestra:
 
 **Captura de pantalla:**
 
-![Aplicación funcionando](./Pasted%20image%2020260129190059.png)
+![alt text](image.png)
 
 ### 3.6 Funcionamiento
 
