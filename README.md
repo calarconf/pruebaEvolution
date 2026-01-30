@@ -677,10 +677,9 @@ La aplicación muestra:
 
   - Cantidad disponible
 
-Prueba:
-![[Pasted image 20260129190059.png]]
+**Captura de pantalla:**
 
-  
+![Aplicación funcionando](./Pasted%20image%2020260129190059.png)
 
 ### 3.6 Funcionamiento
 
